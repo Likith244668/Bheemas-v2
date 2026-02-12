@@ -23,7 +23,7 @@ const HOURS = [
 ] as const;
 
 const DIRECTIONS_URL =
-  'https://www.google.com/maps/search/?api=1&query=Bheemas+Indian+Kitchen+Little+Rock+AR';
+  'https://www.google.com/maps/place/Bheemas+Indian+Kitchen+%26+Bar/@34.7530225,-92.3992196,856m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87d2a36e67c697df:0xb92a1372c4871279!8m2!3d34.7530182!4d-92.3943487!16s%2Fg%2F11kt86qyhl?entry=tts&g_ep=EgoyMDI2MDIwOS4wIPu8ASoASAFQAw%3D%3D&skid=8af0fc86-68a9-4c25-bdd1-f95adc6f49c1';
 
 const NAV_LINKS = [
   { href: '#home', label: 'Home' },
